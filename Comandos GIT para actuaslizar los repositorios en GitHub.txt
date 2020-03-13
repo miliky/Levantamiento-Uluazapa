@@ -1,0 +1,4 @@
+git add .
+git commit -m "iniciando con uluazapa"
+git push
+git status
