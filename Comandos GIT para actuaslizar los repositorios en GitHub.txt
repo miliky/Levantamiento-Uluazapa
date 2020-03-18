@@ -1,4 +1,4 @@
 git add .
-git commit -m "iniciando con uluazapa"
+git commit -m "parcelas comacaran"
 git push
 git status
