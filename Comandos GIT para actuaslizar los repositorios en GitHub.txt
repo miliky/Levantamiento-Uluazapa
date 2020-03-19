@@ -1,4 +1,4 @@
 git add .
-git commit -m "parcelas comacaran"
+git commit -m "Posteria de comacaran"
 git push
 git status
